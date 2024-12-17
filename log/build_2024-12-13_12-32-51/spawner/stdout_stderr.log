@@ -1,0 +1,35 @@
+running egg_info
+creating ../../build/spawner/spawner.egg-info
+writing ../../build/spawner/spawner.egg-info/PKG-INFO
+writing dependency_links to ../../build/spawner/spawner.egg-info/dependency_links.txt
+writing entry points to ../../build/spawner/spawner.egg-info/entry_points.txt
+writing requirements to ../../build/spawner/spawner.egg-info/requires.txt
+writing top-level names to ../../build/spawner/spawner.egg-info/top_level.txt
+writing manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+reading manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+writing manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/charan-kasturi/turtlesim_project/build/spawner/build
+creating /home/charan-kasturi/turtlesim_project/build/spawner/build/lib
+creating /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner
+copying spawner/__init__.py -> /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner
+copying spawner/turtle_spawner.py -> /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner
+running install
+running install_lib
+creating /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner
+copying /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner/__init__.py -> /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner
+copying /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner/turtle_spawner.py -> /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner
+byte-compiling /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner/__init__.py to __init__.cpython-310.pyc
+byte-compiling /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+running install_data
+creating /home/charan-kasturi/turtlesim_project/install/spawner/share/ament_index
+creating /home/charan-kasturi/turtlesim_project/install/spawner/share/ament_index/resource_index
+creating /home/charan-kasturi/turtlesim_project/install/spawner/share/ament_index/resource_index/packages
+copying resource/spawner -> /home/charan-kasturi/turtlesim_project/install/spawner/share/ament_index/resource_index/packages
+copying package.xml -> /home/charan-kasturi/turtlesim_project/install/spawner/share/spawner
+running install_egg_info
+Copying ../../build/spawner/spawner.egg-info to /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing spawn script to /home/charan-kasturi/turtlesim_project/install/spawner/lib/spawner
+writing list of installed files to '/home/charan-kasturi/turtlesim_project/build/spawner/install.log'

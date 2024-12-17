@@ -1,0 +1,95 @@
+[0.009s] Invoking command in '/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/charan-kasturi/turtlesim_project/install/spawner:/home/charan-kasturi/turtlesim_project/install/controller:/home/charan-kasturi/sub_and_pub/install/subscriber:/home/charan-kasturi/sub_and_pub/install/publisher:/home/charan-kasturi/custom_msg/install/led:/home/charan-kasturi/custom_msg/install/custom:/home/charan-kasturi/custom_msg/install/battery:/home/charan-kasturi/client_and_server/install/server:/home/charan-kasturi/client_and_server/install/client:/home/charan-kasturi/install/subscriber:/home/charan-kasturi/install/server:/home/charan-kasturi/install/py_pkg:/home/charan-kasturi/install/publisher:/home/charan-kasturi/install/client:/home/charan-kasturi/ros2_ws/install/py_pkg:/opt/ros/humble /usr/bin/cmake /home/charan-kasturi/turtlesim_project/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/charan-kasturi/turtlesim_project/src/install/custom_interfaces
+[0.042s] -- The C compiler identification is GNU 11.4.0
+[0.076s] -- The CXX compiler identification is GNU 11.4.0
+[0.081s] -- Detecting C compiler ABI info
+[0.127s] -- Detecting C compiler ABI info - done
+[0.131s] -- Check for working C compiler: /usr/bin/cc - skipped
+[0.131s] -- Detecting C compile features
+[0.131s] -- Detecting C compile features - done
+[0.133s] -- Detecting CXX compiler ABI info
+[0.186s] -- Detecting CXX compiler ABI info - done
+[0.192s] -- Check for working CXX compiler: /usr/bin/c++ - skipped
+[0.192s] -- Detecting CXX compile features
+[0.192s] -- Detecting CXX compile features - done
+[0.194s] -- Found ament_cmake: 1.3.10 (/opt/ros/humble/share/ament_cmake/cmake)
+[0.330s] -- Found Python3: /usr/bin/python3 (found version "3.10.12") found components: Interpreter 
+[0.410s] -- Found rosidl_default_generators: 1.2.0 (/opt/ros/humble/share/rosidl_default_generators/cmake)
+[0.414s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.420s] -- Found rosidl_adapter: 3.1.5 (/opt/ros/humble/share/rosidl_adapter/cmake)
+[0.457s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.689s] -- Found ament_cmake_ros: 0.10.0 (/opt/ros/humble/share/ament_cmake_ros/cmake)
+[0.820s] -- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c
+[0.983s] -- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp
+[0.999s] -- Found PythonInterp: /usr/bin/python3 (found suitable version "3.10.12", minimum required is "3.6") 
+[1.001s] -- Found python_cmake_module: 0.10.0 (/opt/ros/humble/share/python_cmake_module/cmake)
+[1.018s] -- Found PythonLibs: /usr/lib/x86_64-linux-gnu/libpython3.10.so (found suitable version "3.10.12", minimum required is "3.5") 
+[1.018s] -- Using PYTHON_EXECUTABLE: /usr/bin/python3
+[1.018s] -- Using PYTHON_INCLUDE_DIRS: /usr/include/python3.10
+[1.018s] -- Using PYTHON_LIBRARIES: /usr/lib/x86_64-linux-gnu/libpython3.10.so
+[1.032s] -- Found PythonExtra: .so  
+[1.057s] -- Configuring done
+[1.071s] -- Generating done
+[1.077s] -- Build files have been written to: /home/charan-kasturi/turtlesim_project/src/build/custom_interfaces
+[1.081s] Invoked command in '/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces' returned '0': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/charan-kasturi/turtlesim_project/install/spawner:/home/charan-kasturi/turtlesim_project/install/controller:/home/charan-kasturi/sub_and_pub/install/subscriber:/home/charan-kasturi/sub_and_pub/install/publisher:/home/charan-kasturi/custom_msg/install/led:/home/charan-kasturi/custom_msg/install/custom:/home/charan-kasturi/custom_msg/install/battery:/home/charan-kasturi/client_and_server/install/server:/home/charan-kasturi/client_and_server/install/client:/home/charan-kasturi/install/subscriber:/home/charan-kasturi/install/server:/home/charan-kasturi/install/py_pkg:/home/charan-kasturi/install/publisher:/home/charan-kasturi/install/client:/home/charan-kasturi/ros2_ws/install/py_pkg:/opt/ros/humble /usr/bin/cmake /home/charan-kasturi/turtlesim_project/src/custom_interfaces -DCMAKE_INSTALL_PREFIX=/home/charan-kasturi/turtlesim_project/src/install/custom_interfaces
+[1.082s] Invoking command in '/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/charan-kasturi/turtlesim_project/install/spawner:/home/charan-kasturi/turtlesim_project/install/controller:/home/charan-kasturi/sub_and_pub/install/subscriber:/home/charan-kasturi/sub_and_pub/install/publisher:/home/charan-kasturi/custom_msg/install/led:/home/charan-kasturi/custom_msg/install/custom:/home/charan-kasturi/custom_msg/install/battery:/home/charan-kasturi/client_and_server/install/server:/home/charan-kasturi/client_and_server/install/client:/home/charan-kasturi/install/subscriber:/home/charan-kasturi/install/server:/home/charan-kasturi/install/py_pkg:/home/charan-kasturi/install/publisher:/home/charan-kasturi/install/client:/home/charan-kasturi/ros2_ws/install/py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/charan-kasturi/turtlesim_project/src/build/custom_interfaces -- -j20 -l20
+[1.106s] [  2%] [34m[1mGenerating C code for ROS interfaces[0m
+[1.116s] [  5%] [34m[1mGenerating C++ code for ROS interfaces[0m
+[1.122s] [  5%] Built target ament_cmake_python_copy_custom_interfaces
+[1.306s] running egg_info
+[1.307s] creating custom_interfaces.egg-info
+[1.307s] writing custom_interfaces.egg-info/PKG-INFO
+[1.307s] writing dependency_links to custom_interfaces.egg-info/dependency_links.txt
+[1.307s] writing top-level names to custom_interfaces.egg-info/top_level.txt
+[1.307s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[1.308s] reading manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[1.309s] writing manifest file 'custom_interfaces.egg-info/SOURCES.txt'
+[1.324s] [  5%] Built target custom_interfaces__cpp
+[1.330s] [  5%] Built target ament_cmake_python_build_custom_interfaces_egg
+[1.331s] [  7%] [34m[1mGenerating C++ introspection for ROS interfaces[0m
+[1.331s] [ 10%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/new_turtle_pose__functions.c.o[0m
+[1.331s] [ 12%] [34m[1mGenerating C++ type support for eProsima Fast-RTPS[0m
+[1.333s] [ 15%] [32mBuilding C object CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/pose_list__functions.c.o[0m
+[1.334s] [ 17%] [34m[1mGenerating C++ type support dispatch for ROS interfaces[0m
+[1.343s] In file included from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_c/custom_interfaces/msg/detail/pose_list__functions.h:19[m[K,
+[1.343s]                  from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_c/custom_interfaces/msg/detail/pose_list__functions.c:4[m[K:
+[1.343s] [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_c/custom_interfaces/msg/detail/pose_list__struct.h:22:10:[m[K [01;31m[Kfatal error: [m[Kcustom_interfaces/msg/detail/string_float_tuple__struct.h: No such file or directory
+[1.343s]    22 | #include [01;31m[K"custom_interfaces/msg/detail/string_float_tuple__struct.h"[m[K
+[1.343s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.344s] compilation terminated.
+[1.344s] gmake[2]: *** [CMakeFiles/custom_interfaces__rosidl_generator_c.dir/build.make:135: CMakeFiles/custom_interfaces__rosidl_generator_c.dir/rosidl_generator_c/custom_interfaces/msg/detail/pose_list__functions.c.o] Error 1
+[1.344s] gmake[2]: *** Waiting for unfinished jobs....
+[1.367s] gmake[1]: *** [CMakeFiles/Makefile2:213: CMakeFiles/custom_interfaces__rosidl_generator_c.dir/all] Error 2
+[1.367s] gmake[1]: *** Waiting for unfinished jobs....
+[1.563s] [ 23%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/msg/new_turtle_pose__type_support.cpp.o[0m
+[1.563s] [ 23%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/msg/pose_list__type_support.cpp.o[0m
+[1.574s] [ 28%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/new_turtle_pose__type_support.cpp.o[0m
+[1.574s] [ 28%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/pose_list__type_support.cpp.o[0m
+[1.581s] [ 33%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/pose_list__type_support.cpp.o[0m
+[1.581s] [ 33%] [32mBuilding CXX object CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/new_turtle_pose__type_support.cpp.o[0m
+[1.611s] In file included from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_typesupport_cpp/custom_interfaces/msg/pose_list__type_support.cpp:7[m[K:
+[1.611s] [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_cpp/custom_interfaces/msg/detail/pose_list__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kcustom_interfaces/msg/detail/string_float_tuple__struct.hpp: No such file or directory
+[1.611s]    20 | #include [01;31m[K"custom_interfaces/msg/detail/string_float_tuple__struct.hpp"[m[K
+[1.611s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.612s] compilation terminated.
+[1.614s] gmake[2]: *** [CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/build.make:104: CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/rosidl_typesupport_cpp/custom_interfaces/msg/pose_list__type_support.cpp.o] Error 1
+[1.614s] gmake[2]: *** Waiting for unfinished jobs....
+[1.618s] In file included from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/pose_list__type_support.cpp:12[m[K:
+[1.618s] [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_cpp/custom_interfaces/msg/detail/pose_list__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kcustom_interfaces/msg/detail/string_float_tuple__struct.hpp: No such file or directory
+[1.619s]    20 | #include [01;31m[K"custom_interfaces/msg/detail/string_float_tuple__struct.hpp"[m[K
+[1.619s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.619s] compilation terminated.
+[1.619s] gmake[2]: *** [CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/build.make:112: CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/rosidl_typesupport_introspection_cpp/custom_interfaces/msg/detail/pose_list__type_support.cpp.o] Error 1
+[1.620s] gmake[2]: *** Waiting for unfinished jobs....
+[1.626s] In file included from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/pose_list__rosidl_typesupport_fastrtps_cpp.hpp:11[m[K,
+[1.626s]                  from [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/pose_list__type_support.cpp:4[m[K:
+[1.626s] [01m[K/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces/rosidl_generator_cpp/custom_interfaces/msg/detail/pose_list__struct.hpp:20:10:[m[K [01;31m[Kfatal error: [m[Kcustom_interfaces/msg/detail/string_float_tuple__struct.hpp: No such file or directory
+[1.626s]    20 | #include [01;31m[K"custom_interfaces/msg/detail/string_float_tuple__struct.hpp"[m[K
+[1.626s]       |          [01;31m[K^~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~[m[K
+[1.626s] compilation terminated.
+[1.627s] gmake[2]: *** [CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/build.make:112: CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/rosidl_typesupport_fastrtps_cpp/custom_interfaces/msg/detail/dds_fastrtps/pose_list__type_support.cpp.o] Error 1
+[1.627s] gmake[2]: *** Waiting for unfinished jobs....
+[1.739s] gmake[1]: *** [CMakeFiles/Makefile2:395: CMakeFiles/custom_interfaces__rosidl_typesupport_cpp.dir/all] Error 2
+[1.823s] gmake[1]: *** [CMakeFiles/Makefile2:369: CMakeFiles/custom_interfaces__rosidl_typesupport_introspection_cpp.dir/all] Error 2
+[1.835s] gmake[1]: *** [CMakeFiles/Makefile2:343: CMakeFiles/custom_interfaces__rosidl_typesupport_fastrtps_cpp.dir/all] Error 2
+[1.835s] gmake: *** [Makefile:146: all] Error 2
+[1.837s] Invoked command in '/home/charan-kasturi/turtlesim_project/src/build/custom_interfaces' returned '2': CMAKE_PREFIX_PATH=${CMAKE_PREFIX_PATH}:/home/charan-kasturi/turtlesim_project/install/spawner:/home/charan-kasturi/turtlesim_project/install/controller:/home/charan-kasturi/sub_and_pub/install/subscriber:/home/charan-kasturi/sub_and_pub/install/publisher:/home/charan-kasturi/custom_msg/install/led:/home/charan-kasturi/custom_msg/install/custom:/home/charan-kasturi/custom_msg/install/battery:/home/charan-kasturi/client_and_server/install/server:/home/charan-kasturi/client_and_server/install/client:/home/charan-kasturi/install/subscriber:/home/charan-kasturi/install/server:/home/charan-kasturi/install/py_pkg:/home/charan-kasturi/install/publisher:/home/charan-kasturi/install/client:/home/charan-kasturi/ros2_ws/install/py_pkg:/opt/ros/humble /usr/bin/cmake --build /home/charan-kasturi/turtlesim_project/src/build/custom_interfaces -- -j20 -l20

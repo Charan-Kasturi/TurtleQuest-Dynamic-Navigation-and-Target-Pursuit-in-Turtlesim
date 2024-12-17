@@ -1,0 +1,37 @@
+[0.368s] Invoking command in '/home/charan-kasturi/turtlesim_project/src/controller': PYTHONPATH=/home/charan-kasturi/turtlesim_project/src/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/controller build --build-base /home/charan-kasturi/turtlesim_project/src/build/controller/build install --record /home/charan-kasturi/turtlesim_project/src/build/controller/install.log --single-version-externally-managed install_data
+[0.539s] running egg_info
+[0.540s] creating ../build/controller/controller.egg-info
+[0.540s] writing ../build/controller/controller.egg-info/PKG-INFO
+[0.540s] writing dependency_links to ../build/controller/controller.egg-info/dependency_links.txt
+[0.540s] writing entry points to ../build/controller/controller.egg-info/entry_points.txt
+[0.540s] writing requirements to ../build/controller/controller.egg-info/requires.txt
+[0.540s] writing top-level names to ../build/controller/controller.egg-info/top_level.txt
+[0.540s] writing manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[0.541s] reading manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[0.542s] writing manifest file '../build/controller/controller.egg-info/SOURCES.txt'
+[0.542s] running build
+[0.542s] running build_py
+[0.542s] creating /home/charan-kasturi/turtlesim_project/src/build/controller/build
+[0.542s] creating /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib
+[0.542s] creating /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib/controller
+[0.542s] copying controller/__init__.py -> /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib/controller
+[0.542s] copying controller/turtle_controller.py -> /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib/controller
+[0.542s] running install
+[0.542s] running install_lib
+[0.543s] creating /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller
+[0.543s] copying /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib/controller/__init__.py -> /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller
+[0.543s] copying /home/charan-kasturi/turtlesim_project/src/build/controller/build/lib/controller/turtle_controller.py -> /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller
+[0.543s] byte-compiling /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller/__init__.py to __init__.cpython-310.pyc
+[0.543s] byte-compiling /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.544s] running install_data
+[0.544s] creating /home/charan-kasturi/turtlesim_project/src/install/controller/share/ament_index
+[0.544s] creating /home/charan-kasturi/turtlesim_project/src/install/controller/share/ament_index/resource_index
+[0.544s] creating /home/charan-kasturi/turtlesim_project/src/install/controller/share/ament_index/resource_index/packages
+[0.544s] copying resource/controller -> /home/charan-kasturi/turtlesim_project/src/install/controller/share/ament_index/resource_index/packages
+[0.544s] copying package.xml -> /home/charan-kasturi/turtlesim_project/src/install/controller/share/controller
+[0.544s] running install_egg_info
+[0.546s] Copying ../build/controller/controller.egg-info to /home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[0.546s] running install_scripts
+[0.563s] Installing control script to /home/charan-kasturi/turtlesim_project/src/install/controller/lib/controller
+[0.563s] writing list of installed files to '/home/charan-kasturi/turtlesim_project/src/build/controller/install.log'
+[0.578s] Invoked command in '/home/charan-kasturi/turtlesim_project/src/controller' returned '0': PYTHONPATH=/home/charan-kasturi/turtlesim_project/src/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/src/install/controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../build/controller build --build-base /home/charan-kasturi/turtlesim_project/src/build/controller/build install --record /home/charan-kasturi/turtlesim_project/src/build/controller/install.log --single-version-externally-managed install_data

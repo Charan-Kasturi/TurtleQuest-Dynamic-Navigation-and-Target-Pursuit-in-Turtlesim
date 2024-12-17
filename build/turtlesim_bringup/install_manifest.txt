@@ -1,0 +1,16 @@
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/launch/turtlesim.launch.py
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/ament_index/resource_index/package_run_dependencies/turtlesim_bringup
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/ament_index/resource_index/parent_prefix_path/turtlesim_bringup
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/environment/ament_prefix_path.sh
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/environment/ament_prefix_path.dsv
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/environment/path.sh
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/environment/path.dsv
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/local_setup.bash
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/local_setup.sh
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/local_setup.zsh
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/local_setup.dsv
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/package.dsv
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/ament_index/resource_index/packages/turtlesim_bringup
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/cmake/turtlesim_bringupConfig.cmake
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/cmake/turtlesim_bringupConfig-version.cmake
+/home/charan-kasturi/turtlesim_project/install/turtlesim_bringup/share/turtlesim_bringup/package.xml

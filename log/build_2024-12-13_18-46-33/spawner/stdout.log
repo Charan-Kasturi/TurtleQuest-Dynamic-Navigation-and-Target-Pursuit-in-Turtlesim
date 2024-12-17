@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/spawner/spawner.egg-info/PKG-INFO
+writing dependency_links to ../../build/spawner/spawner.egg-info/dependency_links.txt
+writing entry points to ../../build/spawner/spawner.egg-info/entry_points.txt
+writing requirements to ../../build/spawner/spawner.egg-info/requires.txt
+writing top-level names to ../../build/spawner/spawner.egg-info/top_level.txt
+reading manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+writing manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+running build
+running build_py
+copying spawner/turtle_spawner.py -> /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner
+running install
+running install_lib
+copying /home/charan-kasturi/turtlesim_project/build/spawner/build/lib/spawner/turtle_spawner.py -> /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner
+byte-compiling /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner/turtle_spawner.py to turtle_spawner.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/spawner/spawner.egg-info to /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner-0.0.0-py3.10.egg-info
+running install_scripts
+Installing spawn script to /home/charan-kasturi/turtlesim_project/install/spawner/lib/spawner
+writing list of installed files to '/home/charan-kasturi/turtlesim_project/build/spawner/install.log'

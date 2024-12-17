@@ -1,0 +1,21 @@
+[0.500s] Invoking command in '/home/charan-kasturi/turtlesim_project/src/spawner': PYTHONPATH=/home/charan-kasturi/turtlesim_project/build/spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/spawner build --build-base /home/charan-kasturi/turtlesim_project/build/spawner/build install --record /home/charan-kasturi/turtlesim_project/build/spawner/install.log --single-version-externally-managed install_data
+[0.664s] running egg_info
+[0.665s] writing ../../build/spawner/spawner.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/spawner/spawner.egg-info/dependency_links.txt
+[0.666s] writing entry points to ../../build/spawner/spawner.egg-info/entry_points.txt
+[0.666s] writing requirements to ../../build/spawner/spawner.egg-info/requires.txt
+[0.666s] writing top-level names to ../../build/spawner/spawner.egg-info/top_level.txt
+[0.667s] reading manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+[0.667s] writing manifest file '../../build/spawner/spawner.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.668s] running install
+[0.668s] running install_lib
+[0.669s] running install_data
+[0.669s] running install_egg_info
+[0.670s] removing '/home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner-0.0.0-py3.10.egg-info' (and everything under it)
+[0.670s] Copying ../../build/spawner/spawner.egg-info to /home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages/spawner-0.0.0-py3.10.egg-info
+[0.671s] running install_scripts
+[0.687s] Installing spawn script to /home/charan-kasturi/turtlesim_project/install/spawner/lib/spawner
+[0.687s] writing list of installed files to '/home/charan-kasturi/turtlesim_project/build/spawner/install.log'
+[0.706s] Invoked command in '/home/charan-kasturi/turtlesim_project/src/spawner' returned '0': PYTHONPATH=/home/charan-kasturi/turtlesim_project/build/spawner/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/install/spawner/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/spawner build --build-base /home/charan-kasturi/turtlesim_project/build/spawner/build install --record /home/charan-kasturi/turtlesim_project/build/spawner/install.log --single-version-externally-managed install_data

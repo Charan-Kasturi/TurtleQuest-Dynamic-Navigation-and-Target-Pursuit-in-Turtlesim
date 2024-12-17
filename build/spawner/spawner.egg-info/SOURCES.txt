@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../../build/spawner/spawner.egg-info/PKG-INFO
+../../build/spawner/spawner.egg-info/SOURCES.txt
+../../build/spawner/spawner.egg-info/dependency_links.txt
+../../build/spawner/spawner.egg-info/entry_points.txt
+../../build/spawner/spawner.egg-info/requires.txt
+../../build/spawner/spawner.egg-info/top_level.txt
+../../build/spawner/spawner.egg-info/zip-safe
+resource/spawner
+spawner/__init__.py
+spawner/turtle_spawner.py
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py

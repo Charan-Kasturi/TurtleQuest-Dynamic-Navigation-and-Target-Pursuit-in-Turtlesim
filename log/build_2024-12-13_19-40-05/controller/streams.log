@@ -1,0 +1,24 @@
+[0.512s] Invoking command in '/home/charan-kasturi/turtlesim_project/src/controller': AMENT_PREFIX_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/charan-kasturi/turtlesim_project/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages:/home/charan-kasturi/turtlesim_project/install/custom_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/controller build --build-base /home/charan-kasturi/turtlesim_project/build/controller/build install --record /home/charan-kasturi/turtlesim_project/build/controller/install.log --single-version-externally-managed install_data
+[0.664s] running egg_info
+[0.665s] writing ../../build/controller/controller.egg-info/PKG-INFO
+[0.665s] writing dependency_links to ../../build/controller/controller.egg-info/dependency_links.txt
+[0.665s] writing entry points to ../../build/controller/controller.egg-info/entry_points.txt
+[0.665s] writing requirements to ../../build/controller/controller.egg-info/requires.txt
+[0.665s] writing top-level names to ../../build/controller/controller.egg-info/top_level.txt
+[0.666s] reading manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.667s] writing manifest file '../../build/controller/controller.egg-info/SOURCES.txt'
+[0.667s] running build
+[0.667s] running build_py
+[0.667s] copying controller/turtle_controller.py -> /home/charan-kasturi/turtlesim_project/build/controller/build/lib/controller
+[0.667s] running install
+[0.667s] running install_lib
+[0.668s] copying /home/charan-kasturi/turtlesim_project/build/controller/build/lib/controller/turtle_controller.py -> /home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages/controller
+[0.668s] byte-compiling /home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages/controller/turtle_controller.py to turtle_controller.cpython-310.pyc
+[0.669s] running install_data
+[0.669s] running install_egg_info
+[0.670s] removing '/home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info' (and everything under it)
+[0.670s] Copying ../../build/controller/controller.egg-info to /home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages/controller-0.0.0-py3.10.egg-info
+[0.671s] running install_scripts
+[0.687s] Installing control script to /home/charan-kasturi/turtlesim_project/install/controller/lib/controller
+[0.687s] writing list of installed files to '/home/charan-kasturi/turtlesim_project/build/controller/install.log'
+[0.704s] Invoked command in '/home/charan-kasturi/turtlesim_project/src/controller' returned '0': AMENT_PREFIX_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces:${AMENT_PREFIX_PATH} CMAKE_PREFIX_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces:${CMAKE_PREFIX_PATH} LD_LIBRARY_PATH=/home/charan-kasturi/turtlesim_project/install/custom_interfaces/lib:${LD_LIBRARY_PATH} PYTHONPATH=/home/charan-kasturi/turtlesim_project/build/controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/charan-kasturi/turtlesim_project/install/controller/lib/python3.10/site-packages:/home/charan-kasturi/turtlesim_project/install/custom_interfaces/local/lib/python3.10/dist-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/controller build --build-base /home/charan-kasturi/turtlesim_project/build/controller/build install --record /home/charan-kasturi/turtlesim_project/build/controller/install.log --single-version-externally-managed install_data
